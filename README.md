@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋! I'm Nandini
+
+💻 I am a Software Engineer with four years of dedicated experience in the Enterprise Data Warehousing sector. My background includes hands-on work with Informatica, Oracle, and Teradata.
+
+👀 I am currently on the lookout for a new opportunity as a Junior to Mid-level Developer in the realm of Web and App Development. I am excited about the possibility of delving into various roles, be it in front-end, back-end, or full-stack development, that are aligned with my skills and aspirations.
+
+- 🔭 I’m currently working on ZooManagement and Time2Burn personal projects
+- 🤔 I’m looking for help with Azure deployment of my backends
+- 📫 You can reach me through [Linkenin](https://www.linkedin.com/in/nandini-polavarapu-a1470662/)
+
 
 <!--
 **nandinip92/nandinip92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
