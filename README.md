@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ZooManagement and Time2Burn personal projects
 - 🤔 I’m looking for help with Azure deployment of my backends
-- 📫 You can reach me through [Linkenin](https://www.linkedin.com/in/nandini-polavarapu-a1470662/)
+- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/nandini-polavarapu-a1470662/)
 
 
 <!--
