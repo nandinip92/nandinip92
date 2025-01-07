@@ -26,7 +26,7 @@
 Feel free to connect and collaborate on exciting projects or share insights on Azure deployments!
 
 ### 🔗 Connect with Me
-- [LinkedIn Profile]([https://www.linkedin.com/in/nandini-polavarapu-a1470662/])
+- [LinkedIn Profile](https://www.linkedin.com/in/nandini-polavarapu-a1470662/)
 
 
 <!--
