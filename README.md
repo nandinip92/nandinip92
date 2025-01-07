@@ -1,12 +1,32 @@
-### Hi there 👋! 
-#### I'm Nandini
-##### 💻 I am a Software Engineer with four years of dedicated experience in the Enterprise Data Warehousing sector. My background includes hands-on work with Informatica, Oracle, and Teradata.
+### 👋 About Me
 
-##### 👀 I am currently on the lookout for a new opportunity as a Junior to Mid-level Developer in the realm of Web and App Development. I am excited about the possibility of delving into various roles, be it in front-end, back-end, or full-stack development, that are aligned with my skills and aspirations.
+##### 💻 **Software Engineer** with 4 years of experience specializing in **Enterprise Data Warehousing**. I’ve honed my skills working with technologies like **Informatica**, **Oracle**, and **Teradata** to deliver scalable and efficient solutions.
 
-- 🔭 I’m currently working on ZooManagement and Time2Burn personal projects
-- 🤔 I’m looking for help with Azure deployment of my backends
-- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/nandini-polavarapu-a1470662/)
+##### 👀 Currently exploring the dynamic world of **Software Development**, with interests spanning **front-end**, **back-end**, and **full-stack development**.
+
+---
+
+### 🚀 Current Projects
+
+- **ZooManagement**: A comprehensive application for managing zoo operations, including animal data, enclosures, etc.
+- **Time2Burn**: A time-management tool designed to manage your calorie intake and burn rate.
+
+---
+
+<!-- ### 🤝 Seeking Collaboration
+
+- **Azure Deployment Assistance**: Looking for guidance on deploying back-end services to Azure for seamless integration and scalability.
+
+--->
+
+### 🛠️ Tech Stack
+- **Enterprise Tools**: Informatica, Oracle, Teradata, Unix, Python
+- **Software Development**: Javascript, Typescript, React, C#
+
+Feel free to connect and collaborate on exciting projects or share insights on Azure deployments!
+
+### 🔗 Connect with Me
+- [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/nandini-polavarapu-a1470662/))
 
 
 <!--
